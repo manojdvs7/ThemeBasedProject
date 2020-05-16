@@ -1,2 +1,2 @@
-rootProject.name='Themebased'
+rootProject.name='PlantsClassification'
 include ':app'
